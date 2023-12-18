@@ -1,10 +1,10 @@
 ### Olá! Meu Nome é Julio Cesar!
 
 
-- 🔭 Eu estou atualmente trabalhando com Design gráfico, impressão 3D e Adm de mídias sociais...
-- 🌱 Estou cursando Engenharia Elétrica (tranquei ciência da computação)...
+-Dono e C&O de uma Empresa de Hardware e manutenção em equipamentos de informática; Considerada a melhor assistência técninca em informática do Vale do São Francisco no ano de 2023.
+- 🌱 Estou cursando Analise e desenvolvimento de Sistemas (tranquei ciência da computação)...
 - 😄 Pronouns: Ele/dele...
-- ⚡ Fun fact: Tranquei ciência da computação por estar querendo mais e mais em relação à programação, estava vendo pouco andar quanto a programação que eu realmente queria (programação de máquinas e robos).
+- ⚡ Fun fact: Tranquei ciência da computação por estar querendo mais e mais em relação à programação, estava vendo pouco andar quanto a programação que eu realmente queria.
 
 
 <div align="center">
