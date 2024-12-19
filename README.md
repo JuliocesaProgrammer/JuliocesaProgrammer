@@ -5,6 +5,8 @@
 - 🌱 Estou cursando Analise e desenvolvimento de Sistemas (tranquei ciência da computação)...
 - 😄 Pronouns: Ele/dele...
 - ⚡ Fun fact: Tranquei ciência da computação por estar querendo mais e mais em relação à programação, estava vendo pouco andar quanto a programação que eu realmente queria.
+- Tutor no CESAR SCHOOL;
+- Estagário na COMPASS UOL
 
 
 <div align="center">
