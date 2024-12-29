@@ -1,5 +1,6 @@
 ### Olá! Meu Nome é Julio Cesar!
 
+![snake gif](https://github.com/JuliocesaProgrammer/JuliocesaProgrammer/blob/output/github-contribution-grid-snake.gif)
 
 -Dono e C&O de uma Empresa de Hardware e manutenção em equipamentos de informática; Considerada a melhor assistência técninca em informática do Vale do São Francisco no ano de 2023.
 - 🌱 Estou cursando Analise e desenvolvimento de Sistemas (tranquei ciência da computação)...
