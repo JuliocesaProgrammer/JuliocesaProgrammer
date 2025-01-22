@@ -2,12 +2,10 @@
 
 ![snake gif](https://github.com/JuliocesaProgrammer/JuliocesaProgrammer/blob/output/github-contribution-grid-snake.gif)
 
--Dono e C&O de uma Empresa de Hardware e manutenção em equipamentos de informática; Considerada a melhor assistência técninca em informática do Vale do São Francisco no ano de 2023.
-- 🌱 Estou cursando Analise e desenvolvimento de Sistemas (tranquei ciência da computação)...
-- 😄 Pronouns: Ele/dele...
-- ⚡ Fun fact: Tranquei ciência da computação por estar querendo mais e mais em relação à programação, estava vendo pouco andar quanto a programação que eu realmente queria.
+-DEV - BACKEND;
+- 🌱 Estou cursando Analise e desenvolvimento de Sistemas;
 - Tutor no CESAR SCHOOL;
-- Estagário na COMPASS UOL
+- Estagário na COMPASS UOL;
 
 
 <div align="center">
