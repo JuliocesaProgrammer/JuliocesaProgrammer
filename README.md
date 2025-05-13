@@ -5,7 +5,7 @@
 -DEV - BACKEND;
 - 🌱 Estou cursando Analise e desenvolvimento de Sistemas;
 - Tutor no CESAR SCHOOL;
-- Estagário na COMPASS UOL;
+- EX-Estagário na COMPASS UOL;
 
 
 <div align="center">
