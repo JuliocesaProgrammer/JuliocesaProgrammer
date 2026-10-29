@@ -3,8 +3,8 @@
 ![snake gif](https://github.com/JuliocesaProgrammer/JuliocesaProgrammer/blob/output/github-contribution-grid-snake.gif)
 
 -DEV - BACKEND;
-- 🌱 Estou cursando Analise e desenvolvimento de Sistemas;
-- Tutor no CESAR SCHOOL;
+- 🌱 Formado em Analise e desenvolvimento de Sistemas;
+-EX-Tutor no CESAR SCHOOL;
 - EX-Estagário na COMPASS UOL;
 
 
